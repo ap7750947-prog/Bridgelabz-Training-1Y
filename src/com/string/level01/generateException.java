@@ -1,4 +1,4 @@
-public class NullPointerDemo {
+public class generateException {
 
     
     public static void generateException() {
