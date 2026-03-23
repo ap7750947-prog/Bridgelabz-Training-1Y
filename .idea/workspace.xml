@@ -4,67 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8fb7e7d-42e6-468f-908c-bea91e85594e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/ArrayIndexExceptionDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/CharArrayCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/CompareStrings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/IllegalArgumentDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/CharacterType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/RockPaperScissors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/ShortestLongestWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/SplitCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/StringLengthDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/TrimCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/VotingEligibility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/VowelConsonantCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-2/WordsWithLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/AnagramCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/CalendarDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/CharFrequencyNested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/CharacterFrequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/DeckOfCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/FirstNonRepeating.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/PalindromeCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/UniqueCharFrequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/Level-3/UniqueCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/LowerCaseCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/NumberFormatDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/StringIndexExceptionDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/SubstringCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/UpperCaseCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-1/generateException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/CharacterType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/RockPaperScissors.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/ShortestLongestWord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/SplitCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/StringLengthDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/TrimCompare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/VotingEligibility.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/VowelConsonantCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-2/WordsWithLength.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/AnagramCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/CalendarDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/CharFrequencyNested.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/CharacterFrequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/DeckOfCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/FirstNonRepeating.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/PalindromeCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/UniqueCharFrequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-submission of the string api/Level-3/UniqueCharacters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Programs/AreaofCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic Programs/Practice Problems" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/com.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/gla/array/ArrayTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/gla/array/GreatestElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/gla/array/LC1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/gla/array/LC1480.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/gla/array/LC1920.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/gla/array/LC867.java" beforeDir="false" />
-    </list>
+    <list default="true" id="b8fb7e7d-42e6-468f-908c-bea91e85594e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -89,7 +32,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "string-api",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "programming-constructs",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/ASUS/OneDrive/Desktop/JavaProject/src/Main.java",
     "project.structure.last.edited": "Modules",
