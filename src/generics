@@ -1,0 +1,23 @@
+class Box<T extends Number> {
+    T value;
+    void add(T value) {
+        this.value = value;
+    }
+    T get() {
+        return value;
+    }
+    void show() {
+        System.out.println("Value: " + value);
+    }
+}
+class Main {
+    public static void main(String[] args) {
+        Box<Integer> b1 = new Box<>();
+        b1.add(10);
+        b1.show();
+
+        Box<Double> b2 = new Box<>();
+        b2.add(5.5);
+        b2.show();
+    }
+}
